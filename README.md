@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Learning web development, AI/ML, and GitHub<br>Passionate about building, learning, and growing 🚀<br>
+Learning Web Development, Embracing AI, and Using GitHub<br>It's all about building, learning, and growing 🚀<br>
 
 
 ## 🌐 Socials:
