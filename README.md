@@ -1,65 +1,101 @@
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmada Natarajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Keep learning , Keep Building&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Narmada Natarajan+👋;MERN Stack Developer / AI Engineer;Keep learning , Keep Building" alt="Typing SVG"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmada%20Natarajan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Keep%20Learning,%20Keep%20Building&descAlignY=55"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Narmada+Natarajan+👋;MERN+Stack+Developer;AI+Engineer;Keep+Learning,+Keep+Building"/>
+
 </div>
 
-## 🤝 Connect with me
+---
 
-<p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narmada-Natarajan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmada-natarajan)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narmadanatarajan3629@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NarmadaNatarajan/)
-</p>
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE (AIML) Student at VIT Bhopal
+- 💻 MERN Stack Developer
+- 🤖 AI Engineer
+- 🌱 Currently learning Full Stack Development and AI
+- 🚀 Open Source Contributor
+- ✨ Keep Learning, Keep Building
+
+---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=HTML,CSS,TAILWINDCSS,JAVASCRIPT,NODE.JS,EXPRESS,MONGODB,REACT,JAVA,PYTHON&perline=8" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,java,python,git,github,vscode&perline=7"/>
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Narmada-Natarajan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Narmada-Natarajan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
+<div align="center">
 
-## 💡 Top Languages
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Narmada-Natarajan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
 
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Narmada-Natarajan&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada-Natarajan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF"/>
 
-## 🔥 Streak
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Narmada-Natarajan&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
-</p>
+---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Narmada-Natarajan&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <a href="https://github.com/Narmada-Natarajan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narmada-Natarajan&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
-## 🚀 Featured Projects
-
-- **[stay_ease](https://github.com/Narmada-Natarajan/stay_ease)** — Home Rental Platform
-- **[YOUR_PROJECT_2](YOUR_PROJECT_2_DEMO)** — YOUR_PROJECT_2_DESC
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narmada-Natarajan&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
 </div>
 
-## ⌨️ About Me
+---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=MERN%20Stack%20Developer%20%2F%20AI%20Engineer%3BKeep%20learning%20%2C%20Keep%20Building%20" alt="Typing SVG" />
-  </a>
-</p>
+## 🚀 Featured Project
+
+### 🏠 StayEase
+Home Rental Platform built using the MERN Stack.
+
+🔗 Repository:  
+https://github.com/Narmada-Natarajan/stay_ease
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Narmada-Natarajan">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
