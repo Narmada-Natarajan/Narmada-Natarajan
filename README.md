@@ -82,11 +82,11 @@ https://github.com/Narmada-Natarajan/stay_ease
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/narmada-natarajan">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:narmadanatarajan3629@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
