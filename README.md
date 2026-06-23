@@ -3,7 +3,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmada%20Natarajan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Keep%20Learning,%20Keep%20Building&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Narmada+Natarajan+👋;MERN+Stack+Developer;AI+Engineer;Keep+Learning,+Keep+Building"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+AI+Engineer" />
+</div>
 
 </div>
 
