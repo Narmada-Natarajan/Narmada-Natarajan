@@ -25,12 +25,6 @@ University: VIT Bhopal
 Role: MERN Stack Developer
 Focus: Artificial Intelligence & Full Stack Development
 
-Currently Learning:
-  - Next.js
-  - Advanced MERN
-  - Deep Learning
-  - System Design
-
 Fun Fact:
   Keep Learning, Keep Building 🚀
 ```
@@ -42,16 +36,6 @@ Fun Fact:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,typescript,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,figma&perline=6"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Narmada-Natarajan&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
