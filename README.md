@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,figma,aws&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,aws&perline=6"/>
 
 </div>
 
@@ -109,13 +109,9 @@ AI platform that analyzes resumes, identifies missing skills, and recommends per
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/narmada-natarajan">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:narmadanatarajan3629@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
