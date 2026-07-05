@@ -96,14 +96,7 @@ An AI-driven platform that analyzes resumes, identifies skill gaps, and recommen
 ---
 
 <div align="center">
-
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="130"/>
-
-### ⭐ Thanks for Visiting My Profile!
-
-**Happy Coding! 🚀**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
 
