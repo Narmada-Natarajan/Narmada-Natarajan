@@ -72,7 +72,7 @@ AI-powered interview preparation platform that enables users to practice intervi
 
 <br>
 
-<a href="https://github.com/Narmada-Natarajan">
+<a href="https://github.com/Narmada-Natarajan/PrepWise_AI">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -90,7 +90,7 @@ AI platform that analyzes resumes, identifies missing skills, and recommends per
 
 <br>
 
-<a href="https://github.com/Narmada-Natarajan">
+<a href="https://github.com/Narmada-Natarajan/AI_Skill_Gap_Analyser">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
