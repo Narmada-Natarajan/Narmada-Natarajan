@@ -9,10 +9,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=%3E+npm+run+dev;%3E+Building+Modern+Web+Applications;%3E+Training+AI+Models;%3E+Always+Learning+New+Things+%F0%9F%9A%80"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Narmada-Natarajan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -32,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,figma&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,aws&perline=6"/>
 
 </div>
 
@@ -67,7 +63,6 @@ An AI-driven platform that analyzes resumes, identifies skill gaps, and recommen
 
 **Tech Stack**
 
-`React` • `Python` • `Flask` • `Gemini AI`
 
 <a href="https://github.com/Narmada-Natarajan">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -88,13 +83,9 @@ An AI-driven platform that analyzes resumes, identifies skill gaps, and recommen
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/narmada-natarajan">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:narmadanatarajan3629@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
