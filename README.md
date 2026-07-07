@@ -55,7 +55,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&perline=6"/>
 
 ### 🗄️ Database
 
@@ -104,7 +104,7 @@
 
 <br>
 
-<a href="https://github.com/Narmada-Natarajan/PrepWise_AI">
+<a href="https://github.com/Narmada-Natarajan/PrepWise-mock_interview_project.git">
 <img src="https://img.shields.io/badge/🌟%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
 </a>
 
