@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Narmada%20Natarajan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Keep%20Learning,%20Keep%20Building&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=200&section=header&text=Narmada%20Natarajan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Keep%20Learning,%20Keep%20Building&descAlignY=55"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+AI+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+AI+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast"/>
 
 <br>
 
@@ -15,15 +14,35 @@
 
 ---
 
-# 👩🏻‍💻 About Me
+# 💫 About Me
+
+<table align="center">
+<tr>
+<td width="60%">
+
+## 👩🏻‍💻 Developer | Innovator | Creator
 
 - 🎓 B.Tech CSE (AIML) Student at **VIT Bhopal**
-- 💻 MERN Stack Developer
-- 🤖 AI Engineer
+- 💻 **MERN Stack Developer** & **AI Engineer**
 - 🌱 Currently exploring **Next.js**, **Generative AI**, and **System Design**
 - 🚀 Passionate about building AI-powered web applications
 - 💡 Love turning ideas into real-world products
 - ✨ *Keep Learning • Keep Building*
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" style="margin: 5px;"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="60" height="60" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" style="margin: 5px;"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,7 +50,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,aws&perline=6"/>
+### 🚀 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs&perline=7"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python&perline=6"/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=4"/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,docker&perline=7"/>
 
 </div>
 
@@ -41,7 +74,7 @@
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Narmada-Natarajan&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Narmada-Natarajan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -49,7 +82,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narmada-Natarajan&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narmada-Natarajan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_title=true"/>
 
 </div>
 
@@ -57,14 +90,14 @@
 
 # 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" style="padding: 20px; background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 12px; border: 1px solid #30363d;">
 
 ## 🧠 Prewise AI
 
-AI-powered interview preparation platform that enables users to practice interviews with personalized AI feedback.
+*AI-powered interview preparation platform with personalized feedback*
 
 ### Tech Stack
 
@@ -73,16 +106,16 @@ AI-powered interview preparation platform that enables users to practice intervi
 <br>
 
 <a href="https://github.com/Narmada-Natarajan/PrepWise_AI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌟%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" style="padding: 20px; background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 12px; border: 1px solid #30363d;">
 
 ## 📊 AI Skill Gap Analyzer
 
-AI platform that analyzes resumes, identifies missing skills, and recommends personalized learning paths.
+*AI platform for skill analysis and personalized learning paths*
 
 ### Tech Stack
 
@@ -91,7 +124,7 @@ AI platform that analyzes resumes, identifies missing skills, and recommends per
 <br>
 
 <a href="https://github.com/Narmada-Natarajan/AI_Skill_Gap_Analyser">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌟%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
 </a>
 
 </td>
@@ -101,20 +134,36 @@ AI platform that analyzes resumes, identifies missing skills, and recommends per
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Narmada-Natarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada-Natarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages"/>
+
+</div>
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Narmada-Natarajan">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/narmada-natarajan">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:narmadanatarajan3629@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/Narmada_N">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </div>
@@ -123,14 +172,14 @@ AI platform that analyzes resumes, identifies missing skills, and recommends per
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F7C52B&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+Visiting+My+Profile!;%F0%9F%9A%80+Happy+Coding!"/>
-
-<br>
-
-✨ *Code • Learn • Build • Repeat*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F7C52B&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+Visiting+My+Profile!;%F0%9F%9A%80+Happy+Coding!;🌟+Star+my+repos+if+you+like+them!;💻+Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=Narmada-Natarajan&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=150&section=footer"/>
 
 </div>
