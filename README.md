@@ -36,7 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" style="margin: 5px;"/>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="60" height="60" style="margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" style="margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" style="margin: 5px;"/>
 
@@ -115,7 +114,7 @@
 
 ## 📊 AI Skill Gap Analyzer
 
-*AI platform for skill analysis and personalized learning paths*
+*AI platform for skill and Resume analysis by matching with the Job Description.*
 
 ### Tech Stack
 
@@ -162,9 +161,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/Narmada_N">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
 
 </div>
 
@@ -177,12 +173,6 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F7C52B&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Happy+Coding!;🌟+Star+my+repos+if+you+like+them!;💻+Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Narmada-Natarajan&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
-
-<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=150&section=footer"/>
 
