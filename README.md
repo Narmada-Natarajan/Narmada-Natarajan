@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Narmada-Natarajan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Narmada-Natarajan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -172,7 +172,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F7C52B&center=true&vCenter=true&width=500&lines=%E2%AD%90+Thanks+for+Visiting+My+Profile!;%F0%9F%9A%80+Happy+Coding!;🌟+Star+my+repos+if+you+like+them!;💻+Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat"/>
+## ⭐ Thanks for Visiting My Profile! ⭐
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F7C52B&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Happy+Coding!;🌟+Star+my+repos+if+you+like+them!;💻+Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat"/>
 
 <br><br>
 
