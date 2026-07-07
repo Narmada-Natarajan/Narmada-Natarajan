@@ -133,18 +133,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Narmada-Natarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada-Natarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -171,8 +159,6 @@
 ## ⭐ Thanks for Visiting My Profile! ⭐
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F7C52B&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Happy+Coding!;🌟+Star+my+repos+if+you+like+them!;💻+Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=150&section=footer"/>
 
