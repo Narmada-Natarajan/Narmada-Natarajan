@@ -160,10 +160,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%8F%97%EF%B8%8F+Planning...;%F0%9F%93%90+Designing...;%F0%9F%94%A8+Coding...;%F0%9F%9A%80+Deploying...;%F0%9F%8E%89+Project+Live!" alt="Building Projects" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=150&section=footer"/>
 
 </div>
