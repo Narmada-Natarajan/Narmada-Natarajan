@@ -27,6 +27,7 @@
 - 🌱 Currently exploring **Next.js**, **Generative AI**, and **System Design**
 - 🚀 Passionate about building AI-powered web applications
 - 💡 Love turning ideas into real-world products
+- 🌐 **[View My Portfolio](https://narmada.bytecamp.in)**
 - ✨ *Keep Learning • Keep Building*
 
 </td>
