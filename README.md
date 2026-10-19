@@ -1,44 +1,34 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=200&section=header&text=Narmada%20Natarajan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Keep%20Learning,%20Keep%20Building&descAlignY=55"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%7C+AI+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=%3E+npm+run+dev;%3E+Building+Modern+Web+Applications;%3E+Training+AI+Models;%3E+Always+Learning+New+Things+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%7C+AI+Engineer;Full-Stack+Developer;Generative+AI+%26+Machine+Learning+Enthusiast"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-<table align="center">
+<table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-## 👩🏻‍💻 Developer | Innovator | Creator
+### Developer | Innovator | Creator
 
-- 🎓 B.Tech CSE (AIML) Student at **VIT Bhopal**
-- 💻 **MERN Stack Developer** & **AI Engineer**
-- 🌱 Currently exploring **Next.js**, **Generative AI**, and **System Design**
-- 🚀 Passionate about building AI-powered web applications
-- 💡 Love turning ideas into real-world products
-- 🌐 **[View My Portfolio](https://narmada.bytecamp.in)**
-- ✨ *Keep Learning • Keep Building*
+- B.Tech CSE student specializing in AI & ML at **VIT Bhopal University**
+- MERN Stack Developer and AI Engineer
+- Exploring **Generative AI, LLMs, LangChain, and System Design**
+- Building AI-powered applications and modern web experiences
+- Interested in machine learning, backend development, and scalable software
+- Portfolio: [narmada.bytecamp.in](https://narmada.bytecamp.in)
+
+**Keep Learning • Keep Building**
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" style="margin: 5px;"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,nextjs&perline=2" />
 
 </td>
 </tr>
@@ -46,110 +36,141 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack & Skills
 
-<div align="center">
+### Programming Languages
 
-### 🚀 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=4" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&perline=7"/>
+### Frontend Development
 
-### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&perline=6"/>
+**Skills:** Responsive Web Design, Component-Based Development, UI Development
 
-### 🗄️ Database
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=4"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" />
+</p>
 
-### 🔧 Tools
+**Skills:** REST APIs, API Integration, Server-Side Development, Authentication, Full-Stack Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,docker&perline=7"/>
+### Generative AI & Machine Learning
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
+</p>
+
+**Technologies & Concepts:**
+
+- Generative AI, Large Language Models (LLMs)
+- LangChain, Prompt Engineering, Structured Output Parsing
+- Ollama, Hugging Face
+- Gemini API, Groq API
+- Pydantic, Streamlit
+- Machine Learning, Natural Language Processing
+- AI-Powered Application Development
+
+### Databases & Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3" />
+</p>
+
+**Technologies:** SQL, MongoDB, MySQL, Firebase, Pandas, NumPy, Matplotlib, Seaborn, Statistics, Power BI, Microsoft Excel, Data Visualization
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,githubactions,prometheus&perline=6" />
+</p>
+
+**Technologies:** AWS (EC2, S3, IAM, VPC, CloudFront, Route 53), Docker, Kubernetes, CI/CD, GitHub Actions, Prometheus, Apache Kafka, Linux, Networking Fundamentals
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&perline=6" />
+</p>
+
+**Tools:** Git, GitHub, VS Code, Postman, Vercel, Jupyter Notebook, uv
+
+### Computer Science Fundamentals
+
+Data Structures & Algorithms (DSA) • Object-Oriented Programming (OOP) • DBMS • Operating Systems • Computer Networks • System Design Fundamentals
 
 ---
 
-# 🔥 GitHub Activity
+# Featured Projects
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Narmada-Natarajan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narmada-Natarajan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_title=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table align="center">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center" style="padding: 20px; background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 12px; border: 1px solid #30363d;">
+### PrepWise AI
 
-## 🧠 Prewise AI
+AI-powered mock interview platform designed to help candidates practice technical and HR interviews with personalized feedback.
 
-*AI-powered interview preparation platform with personalized feedback*
+**Tech Stack**
 
-### Tech Stack
+`Next.js` `TypeScript` `Tailwind CSS` `Gemini AI` `Vapi AI` `MongoDB`
 
-`Next.js` • `TypeScript` • `Tailwind CSS` • `Firebase` • `Gemini AI`
-
-<br>
-
-<a href="https://github.com/Narmada-Natarajan/PrepWise-mock_interview_project.git">
-<img src="https://img.shields.io/badge/🌟%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
-</a>
+[View Project on GitHub](https://github.com/Narmada-Natarajan/PrepWise-mock_interview_project)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" align="center" style="padding: 20px; background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 12px; border: 1px solid #30363d;">
+### AI Skill Gap Analyzer
 
-## 📊 AI Skill Gap Analyzer
+AI-powered resume analysis platform that evaluates resumes, identifies skill gaps, and matches candidate profiles against job descriptions.
 
-*AI platform for skill and Resume analysis by matching with the Job Description.*
+**Tech Stack**
 
-### Tech Stack
+`React` `Node.js` `Express` `MongoDB` `Gemini AI`
 
-`React` • `Node.js` • `Express` • `MongoDB` • `Gemini AI`
-
-<br>
-
-<a href="https://github.com/Narmada-Natarajan/AI_Skill_Gap_Analyser">
-<img src="https://img.shields.io/badge/🌟%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
-</a>
+[View Project on GitHub](https://github.com/Narmada-Natarajan/AI_Skill_Gap_Analyser)
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🌐 Connect With Me
+# GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Narmada-Natarajan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Narmada-Natarajan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narmada-Natarajan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+# Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Narmada-Natarajan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://linkedin.com/in/narmada-natarajan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:narmadanatarajan3629@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+<a href="https://narmada.bytecamp.in">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -157,8 +178,8 @@
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile! ⭐
+### Thanks for visiting my profile!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,8,14&height=120&section=footer" />
 
 </div>
